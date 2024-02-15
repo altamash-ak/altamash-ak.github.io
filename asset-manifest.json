@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/altamash-ak.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/altamash-ak.github.io/static/js/main.85565389.js",
+    "static/js/592.8efe28d8.chunk.js": "/altamash-ak.github.io/static/js/592.8efe28d8.chunk.js",
+    "static/media/logo.svg": "/altamash-ak.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/altamash-ak.github.io/index.html",
+    "main.f855e6bc.css.map": "/altamash-ak.github.io/static/css/main.f855e6bc.css.map",
+    "main.85565389.js.map": "/altamash-ak.github.io/static/js/main.85565389.js.map",
+    "592.8efe28d8.chunk.js.map": "/altamash-ak.github.io/static/js/592.8efe28d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.85565389.js"
+  ]
+}
